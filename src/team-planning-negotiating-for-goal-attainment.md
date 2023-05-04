@@ -1,1 +1,0 @@
-# Negotiating for goal attainment
