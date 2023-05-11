@@ -4,9 +4,6 @@
     - [About This Book](about-this-book.md)
     - [What Are Strong Teams?](what-are-strong-teams.md)
     - [How To Use This Book](how-to-use-this-book.md)
-
-## Part One: Team Foundations
-
 - [Chapter 1: Understanding Teams](chapter-1.md)
     - [Defining Teams](chapter-1-1.md)
     - [Characteristics Of Teams](chapter-1-2.md)
@@ -24,7 +21,6 @@
         - [Self-Directed Teams](chapter-1-3-3.md)
         - [Virtual Teams](chapter-1-3-4.md)
         - [Project Teams](chapter-1-3-5.md)
-
 - [Chapter 2: Building Teams](chapter-2.md)
     - [Team Roles](chapter-2-1.md)
         - [Team Leader](chapter-2-1-1.md)
@@ -47,7 +43,6 @@
         - [Set Standards for Performance](chapter-2-3-4.md)
         - [Outline Decision-Making Processes](chapter-2-3-5.md)
         - [Review and Update Guidelines Regularly](chapter-2-3-6.md)
-
 - [Chapter 3: Team Dynamics](chapter-3.md)
     - [Rewarding and punishing](chapter-3-1.md)
         - [Be Clear and Consistent in Communicating Expectations](chapter-3-1-1.md)
@@ -66,8 +61,6 @@
         - [Celebrating Team Successes](chapter-3-3-3.md)
         - [Encouraging Open and Honest Communication](chapter-3-3-4.md)
         - [Fostering a Culture of Continuous Improvement](chapter-3-3-5.md)
-
-
 - [Chapter 4: Building Team Image](chapter-4.md)
     - [Team Branding](chapter-4-1.md)
         - [Choose a Memorable Team Name](chapter-4-1-1.md)
@@ -82,10 +75,6 @@
         - [Choose a Story or Myth that Resonates with Team Members](chapter-4-3-1.md)
         - [Develop the Legend Over Time to Build a Sense of History and Tradition](chapter-4-3-2.md)
         - [Use the Legend to Reinforce the Team's Values and Identity](chapter-4-3-3.md)
-
-
-## Part Two: Team Leadership
-
 - [Chapter 5: Leadership Styles](chapter-5.md)
     - [CEO Team Leadership](chapter-5-1.md)
         - [Vision Setting](chapter-5-1-1.md)
@@ -105,7 +94,6 @@
         - [Collaborative](chapter-5-3-4.md)
         - [Empathetic](chapter-5-3-5.md)
         - [Resilient](chapter-5-3-6.md)
-
 - [Chapter 6: Leadership Skills](chapter-6.md)
     - [Communication Skills](chapter-6-1.md)
         - [Listen Actively](chapter-6-1-1.md)
@@ -123,7 +111,6 @@
         - [Emotional Intelligence](chapter-6-3-3.md)
         - [Conflict Resolution](chapter-6-3-4.md)
         - [Feedback and Coaching](chapter-6-3-5.md)
-
 - [Chapter 7: Leading Teams](chapter-7.md)
     - [Getting Everyone Involved](chapter-7-1.md)
         - [Encourage Open Communication](chapter-7-1-1.md)
@@ -139,9 +126,6 @@
         - [Establish Communication Channels](chapter-7-3-2.md)
         - [Encourage Collaboration](chapter-7-3-3.md)
         - [Provide Ongoing Support](chapter-7-3-4.md)
-
-## Part Three: Team Management
-
 - [Chapter 8: Team Planning](chapter-8.md)
     - [Creating Team Plans](chapter-8-1.md)
         - [Setting Goals](chapter-8-1-1.md)
@@ -158,7 +142,6 @@
         - [Identifying Necessary Resources](chapter-8-3-2.md)
         - [Assigning Responsibilities](chapter-8-3-3.md)
         - [Tracking Progress](chapter-8-3-4.md)
-
 - [Chapter 9: Team Communication](chapter-9.md)
     - [Building Effective Communication](chapter-9-1.md)
         - [Establish Clear Communication Norms](chapter-9-1-1.md)
@@ -175,7 +158,6 @@
         - [Written Communication](chapter-9-3-3.md)
         - [Feedback and Criticism](chapter-9-3-4.md)
         - [Non-Verbal Communication](chapter-9-3-5.md)
-
 - [Chapter 10: Team Training](chapter-10.md)
     - [Training Team Members](chapter-10-1.md)
         - [Importance of Training Team Members](chapter-10-1-1.md)
@@ -192,7 +174,6 @@
         - [Develop Training Programs](chapter-10-3-3.md)
         - [Implement Training Programs](chapter-10-3-4.md)
         - [Evaluate Training Effectiveness](chapter-10-3-5.md)
-
 - [Chapter 11: Team Performance Management](chapter-11.md)
     - [Determining Key Performance Metrics](chapter-11-1.md)
         - [Identify Team Goals](chapter-11-1-1.md)
@@ -202,7 +183,6 @@
         - [Monitor Progress](chapter-11-1-5.md)
     - [Providing Performance Feedback](chapter-11-2.md)
     - [Developing Plans To Improve Performance](chapter-11-3.md)
-
 - [Conclusion](conclusion.md)
 - [Next Steps](next-steps.md)
 - [Internal Learning And Training Opportunities](internal-learning-and-training-opportunities.md)
