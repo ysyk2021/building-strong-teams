@@ -1,4 +1,4 @@
-# Develop the Legend Over Time to Build a Sense of History and Tradition
+
 
 A team legend is a powerful tool for building a sense of identity and purpose within a team. However, it is important to continue developing the legend over time in order to reinforce its importance and build a sense of history and tradition. In this chapter, we will explore some best practices for developing a team legend over time.
 

@@ -1,4 +1,4 @@
-# Identifying Priorities
+
 
 Negotiating for goal attainment is a crucial part of creating effective team plans. It allows teams to identify their collective priorities, align their goals, and work together towards achieving them. In this chapter, we will explore the importance of identifying priorities and provide tips for negotiating effectively in a team setting.
 

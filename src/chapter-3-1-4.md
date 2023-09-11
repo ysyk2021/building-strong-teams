@@ -1,4 +1,4 @@
-# Use Punishments as a Last Resort and in a Constructive Manner
+
 
 Effective team management involves addressing negative behaviors through constructive punishments, used as a last resort. In this chapter, we will explore the key components of using punishments constructively, including identifying negative behaviors, establishing clear consequences, providing constructive feedback, and offering opportunities for growth.
 

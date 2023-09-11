@@ -1,4 +1,4 @@
-# Maintaining Motivation
+
 
 Maintaining motivation is a crucial aspect of team leadership. In this chapter, we will explore different ways that leaders can keep their team members motivated and engaged in their work.
 

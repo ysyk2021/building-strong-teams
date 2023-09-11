@@ -1,4 +1,4 @@
-# Assess Training Needs
+
 
 Assessing the training needs of a team is a critical step in developing effective team training plans. In this chapter, we will explore how to assess and identify team training needs.
 

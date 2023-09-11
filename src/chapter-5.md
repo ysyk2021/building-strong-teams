@@ -1,4 +1,4 @@
-# Chapter 5: Leadership Styles
+
 
 Leadership is a critical component of building and managing strong teams. In order to be effective, team leaders must have a clear understanding of their leadership style and how it impacts team dynamics. In this chapter, we will explore different leadership styles and best practices for effective team leadership.
 

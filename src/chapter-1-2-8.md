@@ -1,4 +1,4 @@
-# Leadership
+
 
 Leadership is a critical characteristic of strong teams. Effective leadership can help to motivate team members, set clear goals and expectations, and ensure that the team is working together effectively to achieve its objectives. In this chapter, we'll explore the importance of leadership in building strong teams.
 

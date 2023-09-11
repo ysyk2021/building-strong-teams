@@ -1,5 +1,4 @@
-Communication Skills
-=================================================
+
 
 Effective communication is an essential leadership skill. Leaders must be able to communicate clearly and effectively with team members, stakeholders, and other leaders in order to achieve common goals. In this chapter, we will discuss some strategies for developing strong communication skills as a leader.
 

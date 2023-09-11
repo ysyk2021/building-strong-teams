@@ -1,4 +1,4 @@
-# Choose Objective Metrics
+
 
 Objective metrics are important for effective team management and measuring success. In this chapter, we will explore the process of choosing objective metrics to help teams achieve their goals.
 

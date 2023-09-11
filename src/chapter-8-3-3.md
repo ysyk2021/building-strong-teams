@@ -1,4 +1,4 @@
-# Assigning Responsibilities
+
 
 Assigning responsibilities is a crucial component of developing an execution plan for an effective work team. It involves defining and assigning specific tasks and responsibilities to team members to achieve team objectives. In this chapter, we will explore the importance of assigning responsibilities and provide tips for assigning them effectively in a team.
 

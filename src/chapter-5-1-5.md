@@ -1,4 +1,4 @@
-# Continuous Learning
+
 
 Continuous learning is a vital aspect of effective team leadership. In this chapter, we will explore different ways that CEOs can engage in continuous learning and foster a culture of learning within the team.
 

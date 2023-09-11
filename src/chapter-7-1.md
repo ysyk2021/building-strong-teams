@@ -1,5 +1,4 @@
-Getting Everyone Involved
-==================================================
+
 
 One of the key responsibilities of a team leader is to ensure that everyone on the team is involved and engaged in the work. When team members feel valued and included, they are more motivated and invested in the success of the team. In this chapter, we will discuss some strategies for getting everyone involved on the team.
 

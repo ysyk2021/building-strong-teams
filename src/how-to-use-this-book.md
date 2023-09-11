@@ -1,5 +1,3 @@
-How to Use This Book
-=============================
 
 "Building Strong Teams: How to Create and Manage Effective Work Teams" is a comprehensive guide for team leaders and managers who want to build strong, effective, and productive work teams. In this chapter, we will discuss some strategies for using this book effectively.
 

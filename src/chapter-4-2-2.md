@@ -1,4 +1,4 @@
-# Incorporate Team Symbols or Imagery
+
 
 Incorporating team symbols or imagery into a team logo is a creative way to communicate the team's identity and values. Symbols or imagery can represent the team's mission, beliefs, or culture. In this chapter, we will explore some best practices for incorporating symbols or imagery into a team logo.
 

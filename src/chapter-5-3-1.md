@@ -1,4 +1,4 @@
-# Visionary
+
 
 A visionary leader is someone who can inspire and motivate their team members to achieve a shared vision. In this chapter, we will explore the traits of successful team leaders who are visionary.
 

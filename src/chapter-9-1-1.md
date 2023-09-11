@@ -1,4 +1,4 @@
-# Establish Clear Communication Norms
+
 
 Effective communication is the cornerstone of any successful work team. However, communication can be challenging, particularly in virtual or remote teams. Establishing clear communication norms is an essential component of building effective communication and creating a cohesive work team. In this chapter, we will explore the importance of establishing clear communication norms and provide tips for doing so effectively.
 

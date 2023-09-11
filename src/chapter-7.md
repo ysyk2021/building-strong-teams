@@ -1,4 +1,4 @@
-# Chapter 7: Leading Teams
+
 
 Leading teams requires a combination of strategic thinking, effective communication, and strong leadership skills. In this chapter, we will explore three key components of leading teams: getting everyone involved, creating shared goals, and coordinating various roles.
 

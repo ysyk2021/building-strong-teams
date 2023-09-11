@@ -1,4 +1,4 @@
-# Effective Communication
+
 
 Effective communication is a critical characteristic of strong teams. It enables team members to share information, ideas, and feedback with one another. In this chapter, we'll explore the importance of effective communication in building strong teams.
 

@@ -1,5 +1,4 @@
-Challenges of Team Leadership
-==========================================================
+
 
 Leading a team can be both rewarding and challenging. Effective team leadership requires navigating a range of challenges and obstacles that can impact team performance and morale. In this chapter, we will discuss some common challenges of team leadership.
 

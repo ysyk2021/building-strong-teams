@@ -1,4 +1,4 @@
-# Provide Ongoing Support
+
 
 Providing ongoing support is a crucial component of building strong teams. When team members feel supported, they are more likely to be engaged, productive, and effective in their roles. In this chapter, we will explore the importance of providing ongoing support and provide tips for coordinating various roles in a team.
 

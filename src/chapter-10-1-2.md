@@ -1,4 +1,4 @@
-# Designing an Effective Team Training Program
+
 
 Designing an effective team training program is crucial for building strong teams that can achieve their goals. In this chapter, we will explore the key steps involved in designing a team training program.
 

@@ -1,4 +1,4 @@
-# Chapter 6: Leadership Skills
+
 
 Leadership skills are essential for building and managing strong teams. In this chapter, we will explore three key areas of leadership skills: communication skills, decision-making skills, and interpersonal skills.
 

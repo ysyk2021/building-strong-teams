@@ -1,4 +1,4 @@
-# Conflict Resolution
+
 
 Effective communication is essential for building strong teams. In this chapter, we will explore the importance of conflict resolution in interpersonal skills.
 

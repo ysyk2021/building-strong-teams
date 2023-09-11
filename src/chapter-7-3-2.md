@@ -1,4 +1,4 @@
-# Establish Communication Channels
+
 
 Clear and effective communication is a crucial component of building strong teams. When team members communicate well, they are better able to coordinate their various roles and work effectively towards shared goals. In this chapter, we will explore the importance of establishing communication channels and provide tips for coordinating various roles in a team.
 

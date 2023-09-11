@@ -1,4 +1,4 @@
-# Building Trust
+
 
 Building trust is a crucial aspect of team leadership. In this chapter, we will explore different ways that leaders can build and maintain trust within their teams.
 

@@ -1,4 +1,4 @@
-# Importance of Creating Shared Goals
+
 
 Creating shared goals is a critical aspect of team-building, as it establishes a common purpose and direction for the team. In this chapter, we will explore the importance of creating shared goals in building strong teams.
 

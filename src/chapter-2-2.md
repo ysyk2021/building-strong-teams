@@ -1,5 +1,4 @@
-Team Culture
-======================================
+
 
 Team culture refers to the shared values, beliefs, and behaviors that make up the identity of a team. In this chapter, we'll explore the importance of team culture and how to build a strong team culture.
 

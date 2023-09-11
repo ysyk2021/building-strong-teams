@@ -1,4 +1,4 @@
-# Establishing Accountability
+
 
 Establishing accountability is a crucial aspect of negotiating for goal attainment in a team setting. It involves setting clear expectations for performance and holding team members responsible for their contributions towards achieving shared objectives. In this chapter, we will explore the importance of establishing accountability and provide tips for establishing accountability effectively in a team.
 

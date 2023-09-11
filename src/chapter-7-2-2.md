@@ -1,4 +1,4 @@
-# Essential Elements of Shared Goals
+
 
 Creating shared goals is a critical component of team-building, as it sets a common purpose and direction for the team. In this chapter, we will explore the essential elements of shared goals.
 

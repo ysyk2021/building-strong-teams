@@ -1,4 +1,4 @@
-# Diversity
+
 
 Diversity is a key characteristic of strong teams. When teams are composed of members with diverse backgrounds, perspectives, and skill sets, they are more likely to be successful in achieving their goals. In this chapter, we'll explore the importance of diversity in building strong teams.
 

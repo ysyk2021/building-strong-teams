@@ -1,4 +1,4 @@
-# Expressing Gratitude for a Job Well Done
+
 
 Appreciation and feedback are critical components of effective team management. In this chapter, we will explore the key components of expressing gratitude for a job well done, including saying thank you, recognizing team members' achievements in team meetings, providing small gifts or tokens of appreciation, celebrating team milestones and successes, and regularly checking in with team members and offering support.
 

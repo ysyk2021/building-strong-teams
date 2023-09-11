@@ -1,4 +1,4 @@
-# Delegating Tasks
+
 
 Delegating tasks is a crucial aspect of team leadership. In this chapter, we will explore different ways that leaders can delegate tasks effectively while maintaining team performance.
 

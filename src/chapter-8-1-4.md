@@ -1,4 +1,4 @@
-# Monitoring Progress
+
 
 Monitoring progress is an essential component of creating effective team plans. It allows teams to identify potential obstacles, adjust course if necessary, and stay on track towards achieving their objectives. In this chapter, we will explore the importance of monitoring progress and provide tips for coordinating various roles in a team.
 

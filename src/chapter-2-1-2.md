@@ -1,4 +1,4 @@
-# Project Manager
+
 
 In addition to the team leader, another common team role is a project manager. In this chapter, we'll explore the key responsibilities of a project manager and how they can support their team's success.
 

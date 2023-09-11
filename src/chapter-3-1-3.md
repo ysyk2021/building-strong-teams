@@ -1,4 +1,4 @@
-# Reinforce Positive Behaviors with Immediate and Appropriate Rewards
+
 
 Effective team management involves reinforcing positive behaviors through immediate and appropriate rewards. In this chapter, we will explore the key components of reinforcing positive behaviors, including identifying positive behaviors, establishing clear rewards, providing immediate feedback, and adapting rewards over time.
 

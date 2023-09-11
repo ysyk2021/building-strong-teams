@@ -1,4 +1,4 @@
-# Team Leader
+
 
 The team leader plays a vital role in creating and managing effective work teams. In this chapter, we'll explore the key responsibilities of a team leader and how they can support their team's success.
 

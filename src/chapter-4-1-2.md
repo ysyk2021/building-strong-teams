@@ -1,4 +1,4 @@
-# Develop a Team Mission Statement
+
 
 A team mission statement is a concise and focused statement that defines the purpose, goals, and values of a team. It provides direction and guidance to team members, communicates the team's objectives to stakeholders, and fosters a sense of identity and belonging among team members. In this chapter, we'll explore some best practices for developing a team mission statement, including involving team members in the process, being concise and to the point, using clear and simple language, and ensuring the mission statement aligns with the organization's overall mission.
 

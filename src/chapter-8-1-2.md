@@ -1,4 +1,4 @@
-# Developing Objectives
+
 
 Developing objectives is a critical component of creating team plans. It helps team members identify the specific outcomes they need to achieve and provides a roadmap for success. In this chapter, we will explore the importance of developing objectives and provide tips for coordinating various roles in a team.
 

@@ -1,4 +1,4 @@
-# Encouraging Open Communication
+
 
 Open communication is essential for building a strong team culture. When team members feel comfortable sharing their ideas, feedback, and concerns, they can collaborate more effectively and achieve better results. In this chapter, we'll explore the importance of open communication and how to encourage it within a team.
 

@@ -1,4 +1,4 @@
-# Collaborator
+
 
 A collaborator is someone who is skilled at working with others to achieve a common goal. In this chapter, we'll explore the key responsibilities of a collaborator and how they can support their team's success.
 

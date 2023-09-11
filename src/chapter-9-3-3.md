@@ -1,4 +1,4 @@
-# Written Communication
+
 
 While verbal communication is vital in team settings, written communication is equally important. In this chapter, we will explore how to strengthen communication skills by improving written communication.
 

@@ -1,4 +1,4 @@
-# Functional Teams
+
 
 Functional teams are one of several types of teams that organizations may employ to achieve their goals. These teams are typically organized around specific functional areas, such as marketing, finance, or human resources. In this chapter, we'll explore the characteristics of functional teams and how they can be effective in achieving organizational objectives.
 

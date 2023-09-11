@@ -1,4 +1,4 @@
-# Encourage Collaboration
+
 
 Collaboration is a critical component of building strong teams. When team members collaborate effectively, they are better able to leverage each other's strengths and work together towards shared goals. In this chapter, we will explore the importance of encouraging collaboration and provide tips for coordinating various roles in a team.
 

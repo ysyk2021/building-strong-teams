@@ -1,4 +1,4 @@
-# Assigning Tasks
+
 
 Assigning tasks is a crucial step in creating team plans. It ensures that team members are aware of their responsibilities and helps ensure that all necessary tasks are accomplished. In this chapter, we will explore the importance of assigning tasks and provide tips for coordinating various roles in a team.
 

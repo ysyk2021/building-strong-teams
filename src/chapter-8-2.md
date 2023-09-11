@@ -1,4 +1,4 @@
-# Negotiating for Goal Attainment
+
 
 Effective team planning requires negotiation and compromise. In this chapter, we will explore the key components of negotiating to achieve team goals, including identifying priorities, communication, building consensus, and establishing accountability.
 

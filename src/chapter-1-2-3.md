@@ -1,4 +1,4 @@
-# Accountability
+
 
 Accountability is a crucial characteristic of effective work teams. It refers to the extent to which team members are responsible for their actions, decisions, and outcomes, and how they hold themselves and others accountable for achieving team goals. In this chapter, we'll explore the importance of accountability and how it can be cultivated in work teams.
 

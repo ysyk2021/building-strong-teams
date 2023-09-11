@@ -1,4 +1,4 @@
-# Empathy
+
 
 Effective communication is essential for building strong teams. In this chapter, we will explore the importance of empathy in interpersonal skills.
 

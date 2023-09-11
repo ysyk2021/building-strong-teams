@@ -1,4 +1,4 @@
-# Assign Roles and Responsibilities
+
 
 Assigning roles and responsibilities is an important aspect of building strong teams. In this chapter, we will explore the importance of assigning roles and responsibilities in getting everyone involved.
 

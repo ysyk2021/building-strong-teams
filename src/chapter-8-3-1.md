@@ -1,4 +1,4 @@
-# Establishing Clear Objectives
+
 
 Establishing clear objectives is a crucial component of developing an execution plan for an effective work team. It involves defining specific and measurable goals that align with the team's mission and vision. In this chapter, we will explore the importance of establishing clear objectives and provide tips for establishing them effectively in a team.
 

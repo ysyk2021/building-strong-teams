@@ -1,4 +1,4 @@
-# Empowering Teams
+
 
 Empowering teams is a crucial aspect of effective team leadership. In this chapter, we will explore different ways that CEOs can delegate tasks, provide resources and support, and encourage innovation and risk-taking to create a culture of empowerment within their teams.
 

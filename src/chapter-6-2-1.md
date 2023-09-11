@@ -1,4 +1,4 @@
-# Gather Information
+
 
 Effective decision-making is essential for building strong teams. In this chapter, we will explore the importance of gathering information in the decision-making process.
 

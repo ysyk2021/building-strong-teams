@@ -1,4 +1,4 @@
-# Establish Communication Expectations
+
 
 Establishing communication expectations is a critical step in establishing effective team guidelines. The way that team members communicate with each other can have a significant impact on the team’s ability to achieve its goals and objectives. By setting clear expectations for communication, teams can improve collaboration, reduce misunderstandings, and promote a positive and productive team environment. In this chapter, we’ll explore the importance of establishing communication expectations and how to do so effectively.
 

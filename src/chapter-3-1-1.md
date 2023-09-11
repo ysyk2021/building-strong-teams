@@ -1,4 +1,4 @@
-# Be Clear and Consistent in Communicating Expectations
+
 
 Effective team management involves rewarding positive performance and addressing negative behavior. In this chapter, we will explore the key components of rewarding and punishing, including setting expectations, establishing clear consequences, communicating consistently, and creating a culture of accountability.
 

@@ -1,5 +1,4 @@
-Providing Performance Feedback
-=====================================================================
+
 
 Providing performance feedback is an essential part of managing a team's performance. It allows team members to understand how they are performing, what areas they need to improve in, and how they can contribute to the team's success. In this chapter, we will discuss some best practices for providing effective performance feedback.
 

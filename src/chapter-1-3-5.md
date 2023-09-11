@@ -1,4 +1,4 @@
-# Project Teams
+
 
 Project teams are temporary teams formed to complete a specific project or goal. These teams are created for a limited time period and are dissolved once the project is completed. In this chapter, we'll explore the characteristics of project teams and how they can be effective in achieving organizational objectives.
 

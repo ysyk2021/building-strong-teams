@@ -1,4 +1,4 @@
-# Determine Relevant Metrics
+
 
 Determining relevant key performance metrics is crucial for effective team management and measuring success. In this chapter, we will explore the process of determining relevant metrics to help teams achieve their goals.
 

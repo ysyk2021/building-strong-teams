@@ -1,5 +1,4 @@
-Types of Teams
-=============================================
+
 
 Teams are a critical component of organizational success. They enable individuals with diverse skills, knowledge, and perspectives to work collaboratively towards achieving common goals. There are various types of teams that organizations may use to achieve specific objectives. In this chapter, we will discuss the different types of teams and their characteristics.
 

@@ -1,5 +1,3 @@
-About This Book
-========================
 
 What You Will Learn
 -------------------

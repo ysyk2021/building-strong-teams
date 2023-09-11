@@ -1,4 +1,4 @@
-# Use the Legend to Reinforce the Team's Values and Identity
+
 
 A team legend is a powerful tool for building a sense of identity and purpose within a team. However, it can also be used to reinforce the team's values and identity over time. In this chapter, we will explore some best practices for using the team legend to reinforce the team's values and identity.
 

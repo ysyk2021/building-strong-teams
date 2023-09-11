@@ -1,4 +1,4 @@
-# Set Standards for Performance
+
 
 Setting standards for performance is a critical step in establishing effective team guidelines. By setting clear expectations for how team members are expected to perform, teams can ensure that everyone is working towards the same goals and objectives. Clear performance standards can also help teams identify areas for improvement and measure progress towards achieving their goals. In this chapter, we’ll explore the importance of setting standards for performance and how to do so effectively.
 

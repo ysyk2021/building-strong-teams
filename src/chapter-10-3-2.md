@@ -1,4 +1,4 @@
-# Define Learning Objectives
+
 
 Defining clear learning objectives is a critical step in developing effective team training plans. In this chapter, we will explore how to define learning objectives for team training plans.
 

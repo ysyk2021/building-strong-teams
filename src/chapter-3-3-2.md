@@ -1,4 +1,4 @@
-# Providing Constructive and Actionable Feedback
+
 
 Providing constructive and actionable feedback is a critical component of effective team management. In this chapter, we will explore the key components of providing constructive and actionable feedback, including focusing on specific behaviors and actions, using "I" statements to avoid blame and defensiveness, providing actionable steps for improvement, and following up to ensure progress is being made.
 

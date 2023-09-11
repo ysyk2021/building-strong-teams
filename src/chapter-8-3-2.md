@@ -1,4 +1,4 @@
-# Identifying Necessary Resources
+
 
 Identifying necessary resources is a critical component of developing an execution plan for an effective work team. It involves determining the human, financial, and material resources required to achieve team objectives. In this chapter, we will explore the importance of identifying necessary resources and provide tips for identifying them effectively in a team.
 

@@ -1,5 +1,3 @@
-What are Strong Teams?
-===============================
 
 Strong teams are groups of individuals who work together collaboratively towards a common goal. These teams have a shared purpose, clear roles and responsibilities, effective communication, and trust among team members. In this chapter, we will discuss the characteristics of strong teams and why they are critical for organizational success.
 

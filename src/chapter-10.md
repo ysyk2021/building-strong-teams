@@ -1,4 +1,4 @@
-# Chapter 10: Team Training
+
 
 Effective training is essential for building and managing strong teams. In this chapter, we will explore three key components of team training: training team members, role-based training, and team training plans.
 

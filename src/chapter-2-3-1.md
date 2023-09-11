@@ -1,4 +1,4 @@
-# Define the Purpose and Goals of the Team
+
 
 Defining the purpose and goals of a team is critical when establishing team guidelines. The purpose and goals provide a clear direction for the team and help ensure that everyone is working towards the same objectives. In this chapter, we’ll explore the importance of defining the purpose and goals of a team and how to do so effectively.
 

@@ -1,4 +1,4 @@
-# Collaborative
+
 
 Successful team leaders understand the importance of collaboration in building strong teams. In this chapter, we will explore the traits of successful team leaders who are collaborative.
 

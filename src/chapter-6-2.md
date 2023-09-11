@@ -1,5 +1,4 @@
-Decision-Making Skills
-===================================================
+
 
 Effective decision-making is an essential leadership skill. Leaders must be able to make informed decisions that benefit the team and the organization as a whole. In this chapter, we will discuss some strategies for developing strong decision-making skills as a leader.
 

@@ -1,4 +1,4 @@
-# Communicative
+
 
 Successful team leaders are communicative and understand the importance of effective communication in building strong teams. In this chapter, we will explore the traits of successful team leaders who are communicative.
 

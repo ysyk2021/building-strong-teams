@@ -1,4 +1,4 @@
-# Chapter 9: Team Communication
+
 
 Effective communication is critical for building and managing strong teams. In this chapter, we will explore three key components of team communication: building effective communication, resolving team communication issues, and strengthening communication skills.
 

@@ -1,5 +1,3 @@
-Team-building Training Activities
-==========================================
 
 Team-building training activities are a fun and effective way to enhance team performance and build stronger relationships among team members. These activities can help improve communication, collaboration, trust, and problem-solving skills. In this chapter, we will discuss some popular team-building training activities and their benefits.
 

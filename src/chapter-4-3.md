@@ -1,4 +1,4 @@
-# Team Legend
+
 
 A team legend is a powerful tool for building a strong team image. A legend is a story or myth that highlights the team's history, values, and accomplishments. In this chapter, we'll explore some best practices for creating a team legend, including choosing a story or myth that resonates with team members, developing the legend over time to build a sense of history and tradition, and using the legend to reinforce the team's values and identity.
 

@@ -1,4 +1,4 @@
-# Defining Core Values
+
 
 Core values are the fundamental beliefs and principles that guide the behavior and actions of a team. Defining core values is an essential step in building a strong team culture. In this chapter, we'll explore the importance of defining core values and how to do so effectively.
 

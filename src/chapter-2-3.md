@@ -1,4 +1,4 @@
-# Team Guidelines
+
 
 Establishing team guidelines is essential for building effective work teams. Guidelines help team members understand their roles and responsibilities, communicate effectively, and work towards shared goals and objectives. In this chapter, we'll explore the importance of team guidelines and how to establish them effectively.
 

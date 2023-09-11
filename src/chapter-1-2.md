@@ -1,5 +1,4 @@
-Characteristics of Teams
-=======================================================
+
 
 Teams are groups of individuals who work together collaboratively towards achieving a common goal. To build strong teams, it is essential to understand the characteristics of teams and how they contribute to team performance. In this chapter, we will discuss the essential characteristics of teams.
 

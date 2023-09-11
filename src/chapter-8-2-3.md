@@ -1,4 +1,4 @@
-# Building Consensus
+
 
 Building consensus is a key aspect of negotiating for goal attainment in a team setting. It involves finding common ground and working towards a shared understanding to achieve collective objectives. In this chapter, we will explore the importance of building consensus and provide tips for building consensus effectively in a team.
 

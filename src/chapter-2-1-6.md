@@ -1,4 +1,4 @@
-# Communicator
+
 
 A communicator is someone who is skilled at sharing information, ideas, and feedback within a team. In this chapter, we'll explore the key responsibilities of a communicator and how they can support their team's success.
 

@@ -1,4 +1,4 @@
-# Encourage Active Listening
+
 
 Effective communication is a two-way street, and active listening is an essential component of successful communication. Active listening involves listening to the speaker with full attention, seeking to understand their message, and responding appropriately. In this chapter, we will explore the importance of active listening in building effective communication and provide tips for encouraging it within a team.
 

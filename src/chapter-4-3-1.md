@@ -1,4 +1,4 @@
-# Choose a Story or Myth that Resonates with Team Members
+
 
 A team legend is a powerful tool for building a sense of identity and purpose within a team. By choosing a story or myth that resonates with team members, managers can create a shared narrative that inspires and motivates team members to work together towards a common goal. In this chapter, we will explore some best practices for choosing a team legend.
 

@@ -1,4 +1,4 @@
-# Shared Purpose
+
 
 A shared purpose is a fundamental characteristic of effective work teams. A clear and shared purpose provides direction, motivation, and a sense of unity for team members. In this chapter, we will discuss the importance of a shared purpose and some strategies for creating and communicating a shared purpose within your team.
 

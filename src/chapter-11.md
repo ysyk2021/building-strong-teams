@@ -1,4 +1,4 @@
-# Chapter 11: Team Performance Management
+
 
 Effective team performance management is critical for building and managing strong teams. In this chapter, we will explore three key components of team performance management: determining key performance metrics, providing performance feedback, and developing plans to improve performance.
 

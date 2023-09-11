@@ -1,5 +1,4 @@
-Traits of Successful Team Leaders
-==============================================================
+
 
 Successful team leaders possess certain traits that enable them to effectively lead and manage their teams. In this chapter, we will discuss some of the key traits of successful team leaders.
 

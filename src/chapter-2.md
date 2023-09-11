@@ -1,4 +1,4 @@
-# Chapter 2: Building Teams
+
 
 Building effective work teams is essential for any organization looking to achieve success. In this chapter, we'll explore the key components of building strong teams, including team roles, team culture, and team guidelines.
 

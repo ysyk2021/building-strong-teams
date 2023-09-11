@@ -1,4 +1,4 @@
-# Leading Change
+
 
 Leading change is a central component of effective team leadership. In this chapter, we will explore different ways that CEOs can communicate the need for change, involve team members in the change process, and provide support and resources to help team members adapt to the changes.
 

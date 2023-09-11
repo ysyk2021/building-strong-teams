@@ -1,5 +1,3 @@
-Next Steps
-===================
 
 "Building Strong Teams: How to Create and Manage Effective Work Teams" provides a comprehensive guide for team leaders and managers seeking to build strong, effective, and productive work teams. In this chapter, we will discuss some next steps you can take after reading this book.
 

@@ -1,4 +1,4 @@
-# Feedback and Criticism
+
 
 Feedback and criticism are essential aspects of effective communication within a team. In this chapter, we will explore how to strengthen communication skills by giving and receiving feedback and criticism effectively.
 

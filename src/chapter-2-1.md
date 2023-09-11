@@ -1,5 +1,4 @@
-Team Roles
-====================================
+
 
 When building a strong team, it's important to define and assign team roles. Team roles help team members understand their responsibilities and how they contribute to the team's success. In this chapter, we will discuss some common team roles and their importance.
 

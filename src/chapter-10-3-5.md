@@ -1,4 +1,4 @@
-# Evaluate Training Effectiveness
+
 
 Evaluating the effectiveness of team training programs is critical to ensuring that they contribute to the team's overall success. In this chapter, we will explore how to evaluate the effectiveness of team training programs.
 

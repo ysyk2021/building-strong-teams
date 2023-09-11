@@ -1,4 +1,4 @@
-# Problem Solver
+
 
 A problem solver is someone who is skilled at identifying problems and finding solutions. In this chapter, we'll explore the key responsibilities of a problem solver and how they can support their team's success.
 

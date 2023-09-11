@@ -1,4 +1,4 @@
-# Non-Verbal Communication
+
 
 Effective communication requires not only verbal communication but also non-verbal communication. In this chapter, we will explore how to strengthen communication skills by improving non-verbal communication.
 

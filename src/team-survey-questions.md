@@ -1,5 +1,3 @@
-Team survey questions
-==============================
 
 A team survey is an effective tool for understanding the dynamics and functioning of a team. By asking the right questions, you can gain insights into the team's strengths, weaknesses, and areas for improvement. In this chapter, we will provide some sample questions that you can use in your team survey.
 

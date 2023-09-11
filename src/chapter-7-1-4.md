@@ -1,4 +1,4 @@
-# Celebrate Successes
+
 
 Celebrating successes is a critical aspect of team-building, as it reinforces positive behaviors and promotes a sense of shared ownership and accomplishment. In this chapter, we will explore the importance of celebrating successes in getting everyone involved.
 

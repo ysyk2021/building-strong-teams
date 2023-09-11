@@ -1,4 +1,4 @@
-# Develop a Plan
+
 
 Communication issues can be challenging to resolve within a team, but developing a plan to address them can help. In this chapter, we will explore how to develop a plan for resolving communication issues within a team effectively.
 

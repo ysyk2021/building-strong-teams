@@ -1,4 +1,4 @@
-# Set Targets
+
 
 Setting targets is a crucial step in determining key performance metrics for effective team management. In this chapter, we will explore the process of setting targets to help teams achieve their goals.
 

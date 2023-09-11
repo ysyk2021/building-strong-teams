@@ -1,4 +1,4 @@
-# Resilient
+
 
 Successful team leaders understand the importance of resilience in building strong teams. In this chapter, we will explore the traits of successful team leaders who are resilient.
 

@@ -1,4 +1,4 @@
-# Celebrating Team Successes
+
 
 Celebrating team successes is an important way to acknowledge hard work and boost team morale. In this chapter, we will explore different ways to celebrate team successes, including having a team lunch or dinner, providing a bonus or incentive, offering extra time off, and creating a team-building activity.
 

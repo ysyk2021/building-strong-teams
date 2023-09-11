@@ -1,5 +1,3 @@
-External Resource Recommendations
-==========================================
 
 Building a strong team requires ongoing learning and development. Sometimes, external resources can provide valuable insights, training, and tools to help teams improve their performance. In this chapter, we will recommend some external resources that can benefit your team.
 

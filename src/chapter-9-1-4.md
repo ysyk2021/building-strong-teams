@@ -1,4 +1,4 @@
-# Schedule Regular Check-Ins
+
 
 Effective communication is critical for building strong teams and achieving organizational goals. Regular check-ins are one way to promote and maintain effective communication within a team. In this chapter, we will explore the importance of scheduling regular check-ins and provide tips for doing so effectively.
 

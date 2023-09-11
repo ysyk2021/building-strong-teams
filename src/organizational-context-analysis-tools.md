@@ -1,5 +1,3 @@
-Organizational Context Analysis Tools
-==============================================
 
 One critical aspect of creating and managing effective work teams is understanding the organizational context in which they operate. To do this, leaders need to use various tools to analyze their organization's internal and external environment. Below are some commonly used organizational context analysis tools:
 

@@ -1,4 +1,4 @@
-# Subject Matter Expert
+
 
 Subject matter experts (SMEs) are individuals who possess extensive knowledge and expertise in a particular area. In this chapter, we'll explore the key responsibilities of an SME and how they can support their team's success.
 

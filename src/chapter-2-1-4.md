@@ -1,4 +1,4 @@
-# Creative Thinker
+
 
 A creative thinker is someone who thinks outside the box and generates new and innovative ideas. In this chapter, we'll explore the key responsibilities of a creative thinker and how they can support their team's success.
 

@@ -1,4 +1,4 @@
-# Evaluate Outcomes
+
 
 Effective decision-making is essential for building strong teams. In this chapter, we will explore the importance of evaluating outcomes in the decision-making process.
 

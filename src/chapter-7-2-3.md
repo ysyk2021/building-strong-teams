@@ -1,4 +1,4 @@
-# Tips for Creating Shared Goals
+
 
 Creating shared goals is a critical aspect of team-building, as it establishes a common purpose and direction for the team. In this chapter, we will explore tips for creating shared goals effectively.
 

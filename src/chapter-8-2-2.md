@@ -1,4 +1,4 @@
-# Communication
+
 
 Effective communication is a critical component of negotiating for goal attainment in a team setting. It involves sharing information, listening actively, and collaborating to align individual and collective goals. In this chapter, we will explore the importance of communication and provide tips for communicating effectively in a team.
 

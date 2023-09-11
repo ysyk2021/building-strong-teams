@@ -1,4 +1,4 @@
-# Define the Team's Values and Principles
+
 
 Defining a set of values and principles is an essential step in building a strong team brand. Values and principles provide a framework for decision-making, guide behavior, and establish a common understanding of what is important to the team. In this chapter, we'll explore some best practices for defining a team's values and principles, including involving team members in the process, choosing values and principles that align with the team's mission and vision, ensuring the values and principles are actionable and measurable, and reinforcing the values and principles through team events and activities.
 

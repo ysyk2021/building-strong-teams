@@ -1,5 +1,5 @@
-# Develop Training Programs
-# Chapter 98: Team Training Plans: Developing Training Programs
+
+
 
 Developing effective team training programs is a critical component of building strong teams. In this chapter, we will explore how to develop effective team training programs.
 

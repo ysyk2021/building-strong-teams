@@ -1,5 +1,4 @@
-Building Effective Communication
-==============================================================
+
 
 Effective communication is essential for building a strong and effective team. When team members communicate effectively, they are more productive, engaged, and able to work together towards common goals. In this chapter, we will discuss some strategies for building effective communication within a team.
 

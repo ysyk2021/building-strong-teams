@@ -1,4 +1,4 @@
-# Interdependence
+
 
 One of the key characteristics of effective work teams is interdependence. This refers to the degree to which team members rely on one another to achieve individual and collective goals. Interdependence can take many different forms, but at its core, it involves a sense of mutual accountability, commitment, and cooperation between team members.
 

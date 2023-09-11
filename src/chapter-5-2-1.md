@@ -1,4 +1,4 @@
-# Managing Conflicts
+
 
 Managing conflicts is one of the most challenging aspects of team leadership. In this chapter, we will explore different ways that leaders can handle conflicts within the team and maintain a positive work environment.
 

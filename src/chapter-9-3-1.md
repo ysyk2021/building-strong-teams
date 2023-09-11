@@ -1,4 +1,4 @@
-# Active Listening
+
 
 Clear and effective communication is vital for successful teamwork. One key to effective communication is active listening. In this chapter, we will explore how to strengthen communication skills through active listening.
 

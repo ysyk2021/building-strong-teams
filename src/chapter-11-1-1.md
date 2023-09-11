@@ -1,4 +1,4 @@
-# Identify Team Goals
+
 
 In order to build and manage effective work teams, it is essential to identify and measure key performance metrics. This involves determining the team's goals and objectives, and identifying the metrics that will be used to evaluate team performance. In this chapter, we will explore how to identify team goals and determine key performance metrics.
 

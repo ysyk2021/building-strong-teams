@@ -1,5 +1,4 @@
-Determining Key Performance Metrics
-==========================================================================
+
 
 Determining key performance metrics is an essential component of effective team performance management. Key performance metrics provide a clear and objective measure of team performance, allowing team leaders to identify areas for improvement and track progress towards goals. In this chapter, we will discuss some strategies for determining key performance metrics.
 

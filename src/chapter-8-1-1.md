@@ -1,4 +1,4 @@
-# Setting Goals
+
 
 Setting goals is a key aspect of creating team plans. When team members have clear objectives to work towards, they are more motivated and engaged in their work. In this chapter, we will explore the importance of setting goals and provide tips for coordinating various roles in a team.
 

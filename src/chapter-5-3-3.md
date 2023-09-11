@@ -1,4 +1,4 @@
-# Decisive
+
 
 Successful team leaders are decisive and understand the importance of making timely and effective decisions. In this chapter, we will explore the traits of successful team leaders who are decisive.
 
